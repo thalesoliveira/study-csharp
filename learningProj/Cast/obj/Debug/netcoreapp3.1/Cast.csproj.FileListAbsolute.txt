@@ -1,0 +1,13 @@
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\bin\Debug\netcoreapp3.1\Cast.exe
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\bin\Debug\netcoreapp3.1\Cast.deps.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\bin\Debug\netcoreapp3.1\Cast.runtimeconfig.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\bin\Debug\netcoreapp3.1\Cast.runtimeconfig.dev.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\bin\Debug\netcoreapp3.1\Cast.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\bin\Debug\netcoreapp3.1\Cast.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\obj\Debug\netcoreapp3.1\Cast.csprojAssemblyReference.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\obj\Debug\netcoreapp3.1\Cast.AssemblyInfoInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\obj\Debug\netcoreapp3.1\Cast.AssemblyInfo.cs
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\obj\Debug\netcoreapp3.1\Cast.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\obj\Debug\netcoreapp3.1\Cast.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\obj\Debug\netcoreapp3.1\Cast.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Cast\obj\Debug\netcoreapp3.1\Cast.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.exe
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.deps.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.runtimeconfig.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.runtimeconfig.dev.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\bin\Debug\netcoreapp3.1\Modifiers.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.csprojAssemblyReference.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.AssemblyInfoInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.AssemblyInfo.cs
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\Modifiers\obj\Debug\netcoreapp3.1\Modifiers.genruntimeconfig.cache

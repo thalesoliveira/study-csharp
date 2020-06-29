@@ -1,0 +1,12 @@
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\bin\Debug\netcoreapp3.1\ConditionsAndIterations.exe
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\bin\Debug\netcoreapp3.1\ConditionsAndIterations.deps.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\bin\Debug\netcoreapp3.1\ConditionsAndIterations.runtimeconfig.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\bin\Debug\netcoreapp3.1\ConditionsAndIterations.runtimeconfig.dev.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\bin\Debug\netcoreapp3.1\ConditionsAndIterations.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\bin\Debug\netcoreapp3.1\ConditionsAndIterations.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\obj\Debug\netcoreapp3.1\ConditionsAndIterations.AssemblyInfoInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\obj\Debug\netcoreapp3.1\ConditionsAndIterations.AssemblyInfo.cs
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\obj\Debug\netcoreapp3.1\ConditionsAndIterations.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\obj\Debug\netcoreapp3.1\ConditionsAndIterations.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\obj\Debug\netcoreapp3.1\ConditionsAndIterations.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ConditionsAndIterations\obj\Debug\netcoreapp3.1\ConditionsAndIterations.genruntimeconfig.cache

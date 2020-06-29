@@ -1,0 +1,13 @@
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.exe
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.deps.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.runtimeconfig.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.runtimeconfig.dev.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.csprojAssemblyReference.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.AssemblyInfoInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.AssemblyInfo.cs
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.genruntimeconfig.cache

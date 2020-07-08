@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learningProj", "learningProj\learningProj.csproj", "{DA6D1046-C001-45B3-BA20-DF9E299CC74B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learningProj", "learningProj\learningProj.csproj", "{DA6D1046-C001-45B3-BA20-DF9E299CC74B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cast", "Cast\Cast.csproj", "{4CC36201-A6A4-4DB0-B9B4-E883CF9A2194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cast", "Cast\Cast.csproj", "{4CC36201-A6A4-4DB0-B9B4-E883CF9A2194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAndObject", "ClassAndObject\ClassAndObject.csproj", "{0D43BC53-B3BF-4092-9C7A-C0DC0E168E65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassAndObject", "ClassAndObject\ClassAndObject.csproj", "{0D43BC53-B3BF-4092-9C7A-C0DC0E168E65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionsAndIterations", "ConditionsAndIterations\ConditionsAndIterations.csproj", "{763FD6A7-D062-4E9F-B33C-0A9B3CE11982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionsAndIterations", "ConditionsAndIterations\ConditionsAndIterations.csproj", "{763FD6A7-D062-4E9F-B33C-0A9B3CE11982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{310726A5-4954-484C-BBD6-94A775163DAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{310726A5-4954-484C-BBD6-94A775163DAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{6B9AA084-430C-4B65-8229-1F905ACD48F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{6B9AA084-430C-4B65-8229-1F905ACD48F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifiers", "Modifiers\Modifiers.csproj", "{C101E66E-4215-43DE-93CC-2F73980D96E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modifiers", "Modifiers\Modifiers.csproj", "{C101E66E-4215-43DE-93CC-2F73980D96E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{D522784E-86CD-46D0-924D-C32AA995ACDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C101E66E-4215-43DE-93CC-2F73980D96E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C101E66E-4215-43DE-93CC-2F73980D96E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C101E66E-4215-43DE-93CC-2F73980D96E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D522784E-86CD-46D0-924D-C32AA995ACDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D522784E-86CD-46D0-924D-C32AA995ACDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D522784E-86CD-46D0-924D-C32AA995ACDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D522784E-86CD-46D0-924D-C32AA995ACDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.csprojAssemblyReference.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.AssemblyInfoInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.AssemblyInfo.cs
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.exe
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.deps.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.runtimeconfig.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.runtimeconfig.dev.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\bin\Debug\netcoreapp3.1\LinqAndLambda.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\LinqAndLambda\obj\Debug\netcoreapp3.1\LinqAndLambda.genruntimeconfig.cache

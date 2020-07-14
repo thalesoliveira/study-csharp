@@ -1,0 +1,12 @@
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.exe
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.deps.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.dev.json
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfo.cs
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.dll
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.pdb
+C:\Projetos Desenvolvimento\study-csharp\learningProj\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.genruntimeconfig.cache

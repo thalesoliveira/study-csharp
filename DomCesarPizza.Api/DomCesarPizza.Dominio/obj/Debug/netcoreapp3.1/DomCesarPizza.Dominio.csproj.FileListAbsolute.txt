@@ -1,0 +1,8 @@
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\bin\Debug\netcoreapp3.1\DomCesarPizza.Dominio.deps.json
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\bin\Debug\netcoreapp3.1\DomCesarPizza.Dominio.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\bin\Debug\netcoreapp3.1\DomCesarPizza.Dominio.pdb
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\obj\Debug\netcoreapp3.1\DomCesarPizza.Dominio.AssemblyInfoInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\obj\Debug\netcoreapp3.1\DomCesarPizza.Dominio.AssemblyInfo.cs
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\obj\Debug\netcoreapp3.1\DomCesarPizza.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\obj\Debug\netcoreapp3.1\DomCesarPizza.Dominio.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Dominio\obj\Debug\netcoreapp3.1\DomCesarPizza.Dominio.pdb

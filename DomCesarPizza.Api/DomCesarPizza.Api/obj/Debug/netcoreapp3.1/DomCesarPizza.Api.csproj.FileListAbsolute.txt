@@ -27,6 +27,10 @@ C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
@@ -48,6 +52,7 @@ C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.AssemblyInfoInputs.cache
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.AssemblyInfo.cs
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.csproj.CoreCompileInputs.cache
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.RazorTargetAssemblyInfo.cache
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.csproj.CopyComplete

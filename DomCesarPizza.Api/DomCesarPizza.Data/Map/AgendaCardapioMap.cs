@@ -1,4 +1,4 @@
-﻿using DomCesarPizza.Domain.Modelo;
+﻿using DomCesarPizza.Domain.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;

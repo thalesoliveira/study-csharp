@@ -1,4 +1,4 @@
-﻿using DomCesarPizza.Domain.Modelo;
+﻿using DomCesarPizza.Domain.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,5 +1,5 @@
 ﻿using DomCesarPizza.Data.Map;
-using DomCesarPizza.Domain.Modelo;
+using DomCesarPizza.Domain.Model;
 using Microsoft.EntityFrameworkCore;
 using System;
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using DomCesarPizza.Data;
 using DomCesarPizza.Data.Repository;
-using DomCesarPizza.Domain.Modelo;
+using DomCesarPizza.Domain.Model;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860

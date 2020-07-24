@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using DomCesarPizza.Domain.Modelo;
+using DomCesarPizza.Domain.Model;
 using DomCesarPizza.Data;
 using System.Runtime.InteropServices.WindowsRuntime;
 using DomCesarPizza.Data.Repository;

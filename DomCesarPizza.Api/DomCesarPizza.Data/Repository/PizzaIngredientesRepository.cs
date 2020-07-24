@@ -1,4 +1,4 @@
-﻿using DomCesarPizza.Domain.Modelo;
+﻿using DomCesarPizza.Domain.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -50,7 +50,7 @@ namespace DomCesarPizza.Data.Repository
         {
             using (var contexto = new Contexto())
             {
-                return contexto.Pizza.FirstOrDefault(x => x.Id == id);
+                return contexto.PizzaIngredientes.FirstOrDefault(x => x.Id == id);
             }
         }
     }

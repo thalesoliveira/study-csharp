@@ -27,38 +27,38 @@ namespace DomCesarPizza.Api.Controllers
         [HttpGet]
         public IEnumerable<TipoPizza> Get()
         {
-            return _repository.getAll();
+            return _repository.GetAll();
         }
 
         // GET api/<TipoPizzaController>/5
         [HttpGet("{id}")]
         public TipoPizza Get(int id)
         {
-            return _repository.findById(id);
+            return _repository.FindById(id);
         }
 
         // POST api/<TipoPizzaController>
         [HttpPost]
         public IEnumerable<TipoPizza> Post([FromBody] TipoPizza tipoPizza)
         {
-            _repository.create(tipoPizza);
-            return _repository.getAll();
+            _repository.Create(tipoPizza);
+            return _repository.GetAll();
         }
 
         // PUT api/<TipoPizzaController>/5
         [HttpPut]
         public IEnumerable<TipoPizza> Put(int id, [FromBody] TipoPizza tipoPizza)
         {
-            _repository.update(tipoPizza);
-            return _repository.getAll();
+            _repository.Update(tipoPizza);
+            return _repository.GetAll();
         }
 
         // DELETE api/<TipoPizzaController>/5
         [HttpDelete("{id}")]
         public IEnumerable<TipoPizza> Delete(int id)
         {
-            _repository.delete(id);
-            return _repository.getAll();
+            _repository.Delete(id);
+            return _repository.GetAll();
         }
     }
 }

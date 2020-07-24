@@ -27,22 +27,22 @@ namespace DomCesarPizza.Api.Controllers
         [HttpGet]
         public IEnumerable<PizzaIngredientes> Get()
         {
-           return _repository.getAll();
+           return _repository.GetAll();
         }
 
         // GET api/<PizzaIngredientesController>/5
         [HttpGet("{id}")]
         public PizzaIngredientes Get(int id)
         {
-            return _repository.findById(id);
+            return _repository.FindById(id);
         }
 
         // POST api/<PizzaIngredientesController>
         [HttpPost]
         public IEnumerable<PizzaIngredientes> Post([FromBody] PizzaIngredientes pizzaIngredientes)
         {
-            _repository.create(pizzaIngredientes);
-            return _repository.getAll();
+            _repository.Create(pizzaIngredientes);
+            return _repository.GetAll();
         }
 
         // PUT api/<PizzaIngredientesController>/5
@@ -54,16 +54,16 @@ namespace DomCesarPizza.Api.Controllers
                 throw new ArgumentNullException(nameof(pizzaIngredientes));
             }
 
-            _repository.update(pizzaIngredientes);
-            return _repository.getAll();
+            _repository.Update(pizzaIngredientes);
+            return _repository.GetAll();
         }
 
         // DELETE api/<PizzaIngredientesController>/5
         [HttpDelete("{id}")]
         public IEnumerable<PizzaIngredientes> Delete(int id)
         {
-            _repository.delete(id);
-            return _repository.getAll();
+            _repository.Delete(id);
+            return _repository.GetAll();
         }
     }
 }

@@ -31,14 +31,14 @@ namespace DomCesarPizza.Api
         {
             services.AddControllers();
 
-            //services.AddScoped(typeof(IRepositoryBase<>)), typeof(RepositoryBase);
-            //services.AddScoped<IAgendaCardapioRepository, AgendaCardapioRepository>();
-            //services.AddScoped<IAgendaRepository, AgendaRepository>();
-            //services.AddScoped<ICardapioRepository, CardapioRepository>();
-            //services.AddScoped<IIngredienteRepository, IngredienteRepository>();
-            //services.AddScoped<IPizzaIngredientesRepository, PizzaIngredientesRepository>();
-            //services.AddScoped<IPizzaRepository, PizzaRepository>();
-            //services.AddScoped<ITipoPizzaCardapioRepository, TipoPizzaRepository>();
+            services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
+            services.AddScoped<IAgendaCardapioRepository, AgendaCardapioRepository>();
+            services.AddScoped<IAgendaRepository, AgendaRepository>();
+            services.AddScoped<ICardapioRepository, CardapioRepository>();
+            services.AddScoped<IIngredienteRepository, IngredienteRepository>();
+            services.AddScoped<IPizzaIngredientesRepository, PizzaIngredientesRepository>();
+            services.AddScoped<IPizzaRepository, PizzaRepository>();
+            services.AddScoped<ITipoPizzaRepository, TipoPizzaRepository>();
 
             services.AddDbContext<Contexto>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("development")));

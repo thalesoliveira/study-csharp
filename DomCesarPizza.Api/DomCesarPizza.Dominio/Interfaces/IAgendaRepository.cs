@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using DomCesarPizza.Domain.Model;
 
 namespace DomCesarPizza.Domain.Interfaces
 {
-    public interface IAgendaRepository
+    public interface IAgendaRepository : IRepositoryBase<Agenda>
     {
     }
 }

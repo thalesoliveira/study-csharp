@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DomCesarPizza.Domain.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DomCesarPizza.Domain.Model
 {
-    public class AgendaCardapio
+    public class AgendaCardapio : IEntity
     {
         public int IdCardapio { get; set; }
         public Cardapio Cardapio { get; set; }

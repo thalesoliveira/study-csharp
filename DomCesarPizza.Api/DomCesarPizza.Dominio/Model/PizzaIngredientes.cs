@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using DomCesarPizza.Domain.Interfaces;
 
 namespace DomCesarPizza.Domain.Model
 {
-    public class PizzaIngredientes
+    public class PizzaIngredientes : IEntity
     {
         public int Id { get; set; }
         public int IdPizza { get; set; }

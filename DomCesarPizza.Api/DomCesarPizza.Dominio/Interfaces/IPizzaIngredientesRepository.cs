@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using DomCesarPizza.Domain.Model;
 
 namespace DomCesarPizza.Domain.Interfaces
 {
-    public interface IPizzaIngredientesRepository
+    public interface IPizzaIngredientesRepository : IRepositoryBase<PizzaIngredientes>
     {
     }
 }

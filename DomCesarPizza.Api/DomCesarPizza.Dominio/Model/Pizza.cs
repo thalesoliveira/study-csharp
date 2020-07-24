@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DomCesarPizza.Domain.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DomCesarPizza.Domain.Model
 {
-    public class Pizza
+    public class Pizza : IEntity
     {
         public int Id { get; set; }
         public string Descricao { get; set; }

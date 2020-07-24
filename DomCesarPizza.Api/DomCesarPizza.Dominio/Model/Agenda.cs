@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DomCesarPizza.Domain.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DomCesarPizza.Domain.Model
 {
-    public class Agenda
+    public class Agenda : IEntity
     {
         public int Id { get; set; }
         public DateTime DataInicio{ get; set; }

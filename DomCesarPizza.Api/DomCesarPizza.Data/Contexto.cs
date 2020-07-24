@@ -14,10 +14,9 @@ namespace DomCesarPizza.Data
         public DbSet<TipoPizza> TipoPizza { get; set; }
         public DbSet<PizzaIngredientes> PizzaIngredientes { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public Contexto(DbContextOptions<Contexto> options) : base(options)
         {
-            optionsBuilder.UseSqlServer(@"Server=desenv;DataBase=DomCesarPizza;User ID=Sa;Password=Abcd1234");
-            base.OnConfiguring(optionsBuilder);
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

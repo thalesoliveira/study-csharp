@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DomCesarPizza.Domain.Interfaces
 {
-    interface IEntity
+    public interface IEntity
     {
     }
 }

@@ -7,6 +7,7 @@ using DomCesarPizza.Domain.Model;
 using DomCesarPizza.Data;
 using System.Runtime.InteropServices.WindowsRuntime;
 using DomCesarPizza.Data.Repository;
+using DomCesarPizza.Domain.Interfaces;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -17,11 +18,11 @@ namespace DomCesarPizza.Api.Controllers
     public class IngredienteController : ControllerBase
     {
 
-        private IngredienteRepository _repository;
+        private readonly IIngredienteRepository _repository;
 
-        public IngredienteController()
+        public IngredienteController(IIngredienteRepository repository)
         {
-            _repository = new IngredienteRepository();
+            _repository = repository;
         }
         
         // GET: api/<IngredienteController>

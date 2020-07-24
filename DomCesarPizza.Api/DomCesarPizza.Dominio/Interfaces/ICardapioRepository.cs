@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DomCesarPizza.Domain.Interfaces
 {
-    interface ICardapioRepository
+    public interface ICardapioRepository
     {
     }
 }

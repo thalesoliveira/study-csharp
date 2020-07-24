@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using DomCesarPizza.Data;
 using DomCesarPizza.Data.Repository;
+using DomCesarPizza.Domain.Interfaces;
 using DomCesarPizza.Domain.Model;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,12 +17,11 @@ namespace DomCesarPizza.Api.Controllers
     public class PizzaIngredientesController : ControllerBase
     {
 
-        private PizzaIngredientesRepository _repository;
-        public PizzaIngredientesController()
+        private readonly IPizzaIngredientesRepository _repository;
+        public PizzaIngredientesController(IPizzaIngredientesRepository repository)
         {
-            _repository = new PizzaIngredientesRepository();
+            _repository = repository;
         }
-
 
         // GET: api/<PizzaIngredientesController>
         [HttpGet]

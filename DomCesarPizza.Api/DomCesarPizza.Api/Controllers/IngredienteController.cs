@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using DomCesarPizza.Domain.Modelo;
 using DomCesarPizza.Data;
 using System.Runtime.InteropServices.WindowsRuntime;
+using DomCesarPizza.Data.Repository;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -16,85 +17,49 @@ namespace DomCesarPizza.Api.Controllers
     public class IngredienteController : ControllerBase
     {
 
-        /*List<Ingrediente> ingredientes;
+        private IngredienteRepository _repository;
 
         public IngredienteController()
         {
-            ingredientes = new List<Ingrediente>();
-        }*/    
+            _repository = new IngredienteRepository();
+        }
         
         // GET: api/<IngredienteController>
         [HttpGet]
         public IEnumerable<Ingrediente> Get()
         {
-            using (var contexto = new Contexto())
-            {
-                return contexto.Ingrediente.ToList();
-            }
-            
+            return _repository.getAll();            
         }
 
         // GET api/<IngredienteController>/5
         [HttpGet("{id}")]
         public Ingrediente Get(int id)
         {
-            using (var contexto = new Contexto())
-            {
-                return contexto.Ingrediente.FirstOrDefault(x => x.Id == id);
-            }
+            return _repository.findById(id);       
         }
 
         // POST api/<IngredienteController>
         [HttpPost]
         public IEnumerable<Ingrediente> Post([FromBody] Ingrediente ingrediente)
-        {
-            //ingredientes.Add(ingrediente);
-            using (var contexto = new Contexto())
-            {
-                contexto.Ingrediente.Add(ingrediente);
-                contexto.SaveChanges();
-                return contexto.Ingrediente.ToList();
-            }
-            //return ingredientes;
+        {            
+            _repository.create(ingrediente);
+            return _repository.getAll();
         }
 
         // PUT api/<IngredienteController>/5
         [HttpPut]
         public IEnumerable<Ingrediente> Put(int id, [FromBody] Ingrediente ingrediente)
-        {
-            //int index = ingredientes.FindIndex(x => x.Id == id);
-
-            //if (index > -1)
-            //{
-            //    ingredientes[index].Nome = ingrediente.Nome;
-            //    ingredientes[index].Descricao = ingrediente.Descricao;
-            //    ingredientes[index].Validade = ingrediente.Validade;
-            //}
-            //return ingredientes;
-
-            using (var contexto = new Contexto())
-            {
-                contexto.Ingrediente.Update(ingrediente);
-                contexto.SaveChanges();
-                return contexto.Ingrediente.ToList();
-            }
+        {           
+            _repository.update(ingrediente);
+            return _repository.getAll();
         }
 
         // DELETE api/<IngredienteController>/5
         [HttpDelete("{id}")]
         public IEnumerable<Ingrediente> Delete(int id)
         {
-            //var ingrediente = ingredientes.FirstOrDefault(x => x.Id == id);
-            //if (ingrediente == null) 
-            //    ingredientes.Remove(ingrediente);
-            //return ingredientes;
-            using (var contexto = new Contexto())
-            {
-                var entity = contexto.Ingrediente.FirstOrDefault(x => x.Id == id);
-                contexto.Ingrediente.Remove(entity);
-                contexto.SaveChanges();
-                return contexto.Ingrediente.ToList();
-            }
+            _repository.delete(id);
+            return _repository.getAll();
         }
     }
 }

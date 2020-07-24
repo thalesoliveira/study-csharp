@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DomCesarPizza.Data;
+using DomCesarPizza.Data.Repository;
 using DomCesarPizza.Domain.Modelo;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,36 +15,34 @@ namespace DomCesarPizza.Api.Controllers
     [ApiController]
     public class PizzaIngredientesController : ControllerBase
     {
+
+        private PizzaIngredientesRepository _repository;
+        public PizzaIngredientesController()
+        {
+            _repository = new PizzaIngredientesRepository();
+        }
+
+
         // GET: api/<PizzaIngredientesController>
         [HttpGet]
         public IEnumerable<PizzaIngredientes> Get()
         {
-            using (var contexto = new Contexto())
-            {
-                return contexto.PizzaIngredientes.ToList();
-            }
+           return _repository.getAll();
         }
 
         // GET api/<PizzaIngredientesController>/5
         [HttpGet("{id}")]
         public PizzaIngredientes Get(int id)
         {
-            using (var contexto = new Contexto())
-            {
-                return contexto.PizzaIngredientes.FirstOrDefault(x => x.Id == id);
-            }
+            return _repository.findById(id);
         }
 
         // POST api/<PizzaIngredientesController>
         [HttpPost]
         public IEnumerable<PizzaIngredientes> Post([FromBody] PizzaIngredientes pizzaIngredientes)
         {
-            using (var contexto = new Contexto())
-            {
-                contexto.PizzaIngredientes.Add(pizzaIngredientes);
-                contexto.SaveChanges();
-                return contexto.PizzaIngredientes.ToList();
-            }
+            _repository.create(pizzaIngredientes);
+            return _repository.getAll();
         }
 
         // PUT api/<PizzaIngredientesController>/5
@@ -55,25 +54,16 @@ namespace DomCesarPizza.Api.Controllers
                 throw new ArgumentNullException(nameof(pizzaIngredientes));
             }
 
-            using (var contexto = new Contexto())
-            {
-                contexto.PizzaIngredientes.Update(pizzaIngredientes);
-                contexto.SaveChanges();
-                return contexto.PizzaIngredientes.ToList();
-            }
+            _repository.update(pizzaIngredientes);
+            return _repository.getAll();
         }
 
         // DELETE api/<PizzaIngredientesController>/5
         [HttpDelete("{id}")]
         public IEnumerable<PizzaIngredientes> Delete(int id)
         {
-            using (var contexto = new Contexto())
-            {
-                var entity = contexto.PizzaIngredientes.FirstOrDefault(x => x.Id == id);
-                contexto.PizzaIngredientes.Remove(entity);
-                contexto.SaveChanges();
-                return contexto.PizzaIngredientes.ToList();
-            }
+            _repository.delete(id);
+            return _repository.getAll();
         }
     }
 }

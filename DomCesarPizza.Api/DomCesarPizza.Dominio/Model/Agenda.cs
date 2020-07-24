@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DomCesarPizza.Domain.Model
+namespace DomCesarPizza.Domain.Models
 {
     public class Agenda
     {

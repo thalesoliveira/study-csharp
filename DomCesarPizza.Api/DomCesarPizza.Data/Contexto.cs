@@ -1,11 +1,12 @@
 ﻿using DomCesarPizza.Data.Map;
 using DomCesarPizza.Domain.Model;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 
 namespace DomCesarPizza.Data
 {
-    public class Contexto : DbContext
+    public class Contexto : IdentityDbContext
     {
         public DbSet<Agenda> DiaCardapio { get; set; }
         public DbSet<Cardapio> Cardapio { get; set; }

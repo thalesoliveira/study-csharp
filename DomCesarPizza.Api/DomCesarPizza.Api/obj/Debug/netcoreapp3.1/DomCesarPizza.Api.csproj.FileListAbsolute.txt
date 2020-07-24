@@ -65,3 +65,8 @@ C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.csproj.CoreCompileInputs.cache
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\obj\Debug\netcoreapp3.1\DomCesarPizza.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll

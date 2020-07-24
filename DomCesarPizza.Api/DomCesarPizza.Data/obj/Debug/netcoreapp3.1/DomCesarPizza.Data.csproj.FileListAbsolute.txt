@@ -8,8 +8,8 @@ C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\bi
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.csprojAssemblyReference.cache
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.AssemblyInfoInputs.cache
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.AssemblyInfo.cs
-C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.csproj.CoreCompileInputs.cache
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.csproj.CopyComplete
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.dll
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.pdb
 C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.genruntimeconfig.cache
+C:\Projetos Desenvolvimento\study-csharp\DomCesarPizza.Api\DomCesarPizza.Data\obj\Debug\netcoreapp3.1\DomCesarPizza.Data.csproj.CoreCompileInputs.cache
